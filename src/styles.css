@@ -110,6 +110,7 @@ p{
     display: flex;
     justify-content: space-around;
     padding: 80px;
+    /* height:100vh; */
 }
 
 .sub-section-alternative {
@@ -117,6 +118,7 @@ p{
     flex-direction: column;
     text-align: center;
     padding: 80px;
+    /* height:100vh; */
 }
 
 .headshot {
