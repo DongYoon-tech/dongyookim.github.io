@@ -111,7 +111,7 @@ p {
     display: flex;
     justify-content: space-around;
     padding: 80px;
-    /* height:100vh; */
+
 }
 
 .sub-section-alternative {
@@ -119,7 +119,7 @@ p {
     flex-direction: column;
     text-align: center;
     padding: 80px;
-    /* height:100vh; */
+
 }
 
 .headshot {
@@ -148,7 +148,6 @@ p {
 .project-image {
     margin-top: 25px;
     width: 250px;
-    /* height:150px; */
     border-radius: 75px;
 }
 
